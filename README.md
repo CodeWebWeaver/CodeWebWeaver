@@ -34,7 +34,7 @@
     <a href="https://github.com/search?q=user%3AAlbertEinsteinAN+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAlbertEinsteinAN+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAlbertEinsteinAN+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" style="width: 70px; height: auto;"></a>
-    <a href="https://github.com/search?q=user%3AAlbertEinsteinAN+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/jv-jun23-jvavaTeam+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAlbertEinsteinAN+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white" style="width: 47px; height: auto;"></a>
 </p>
 
