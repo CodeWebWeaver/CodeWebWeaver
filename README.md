@@ -30,7 +30,7 @@
 <h3>👨‍💻 Programming and Skills</h3>
 🖱️ Click here to view code examples!
 <p>
-    <a href="https://github.com/CodeWebWeaver/3D-FPS-Tutorial"><img alt="C#" src=https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white></a>
+    <a href="https://github.com/CodeWebWeaver/BluetoothDeviceConnectedInfo"><img alt="C#" src=https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white></a>
     <a href="https://github.com/CodeWebWeaver/3D-FPS-Tutorial"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="https://github.com/CodeWebWeaver/valentin"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/jv-jun23-jvavaTeam"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" style="width: 70px; height: auto;"></a>
