@@ -111,12 +111,5 @@
    <h3>⚡ Recent GitHub Activity</h3>
 
    <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-   <!--START_SECTION:activity-->
- 
- 1. 🎉 Merged in [Beecrowd-Solutions/VS-files](https://github.com/CodeWebWeaver/Beecrowd-Solutions/tree/main/VS-files)
- 2. 🎉 Merged in [Beecrowd-Solutions/Eclipse-files](https://github.com/CodeWebWeaver/Beecrowd-Solutions/tree/main/Eclipse-files)
- 3. 🗣 Commented in Eggshi Game
- 4. 🗣 Commented in Java project of POO
- <!--END_SECTION:activity-->
 
 </details>
