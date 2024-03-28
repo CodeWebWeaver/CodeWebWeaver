@@ -40,14 +40,10 @@
 <h3>🎓 Education</h3>
 🖱️ Click here to see my profile and educational achievements!
 <p>
-    <a href="https://www.beecrowd.com.br/judge/en/users/statistics/473113"><img alt="Beecrowd" src="https://i.imgur.com/OxvHYDF.png" style="width: 110px; height: auto;"></a>
-    <a href="https://www.coursera.org/account/accomplishments/verify/HV9BGNJ473F9"><img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"></a>
-    <a href="https://www.duolingo.com/profile/AlbertAraujo"><img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-    <a href="https://auth.geeksforgeeks.org/user/alberteinsteinan"><img alt="Duolingo" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
-    <a href="https://leetcode.com/AlbertEinsteinAN/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-    <a href="https://www.reddit.com/user/Aromatic_Grab_4061/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/21540034/albert-einstein"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://pt.khanacademy.org/profile/kaid_2154904614769729043447745/discussion"><img alt="Khan Academy" src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"></a>
+    <a href="https://mate.academy/"><img alt="Mate Academy" src="https://i.imgur.com/OxvHYDF.png" style="width: 110px; height: auto;"></a>
+    <a href="https://kntu.kr.ua/"><img alt="KNTU" src="https://img.shields.io/badge/KNTU-blue?style=flat&logo=KNTU&logoColor=%234287f5&labelColor=%2395b334
+"></a>
+    <a href=""><img alt="Unity Learn" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
 </p>
       
 
