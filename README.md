@@ -111,7 +111,7 @@
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://streak-stats.demolab.com/?user=AlbertEinsteinAN&theme=dark&border_radius=1">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlbertEinsteinAN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertEinsteinAN&theme=dark&hide_border=true" height="200px"/></a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlbertEinsteinAN's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWebWeaver&theme=dark&hide_border=true" height="200px"/></a>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
