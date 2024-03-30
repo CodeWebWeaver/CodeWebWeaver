@@ -17,7 +17,8 @@
   <p>
     <a href="https://www.facebook.com/share/zwwpqx543iT8DV9i/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     <a https://ua.linkedin.com/in/alexander-parkhomovsky-577548282"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.youtube.com/"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>    
+    <a href="https://www.youtube.com/@universegames7692"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>    
+    <a href="https://skarbey.itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>    
     
   <br><br>
   </p>
