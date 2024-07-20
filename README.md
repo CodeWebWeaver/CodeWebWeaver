@@ -5,7 +5,7 @@
     <i>
         I'm CodeWebWeaver.<br>
         Open to collaborating on interesting and innovative projects.<br>
-        <a href="[https://www.facebook.com/share/zwwpqx543iT8DV9i/](https://codewebweaver.netlify.app/)">>About me</a>
+        <a href="[https://www.facebook.com/share/zwwpqx543iT8DV9i/](https://codewebweaver.netlify.app/)">About me</a>
     </i><br>
 </p>
 
